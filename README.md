@@ -12,20 +12,18 @@ The entire project is openly accessed.
 ## Description of each files
 
 #### Python files
-detect_logistic.py                
-performance.py    
-test.py            
-utils.py
-detect_svm.py                    
-preprocess.py     
+preprocess.py  
+features.py
 train_logistic.py
-features.py         
-opencv_detect.py  
 train_svm.py
+detect_svm.py                    
+detect_logistic.py                
+performance.py 
+test.py      
+utils.py
 
 #### Folders
 figs 
-data 
 model
 
 #### Text
